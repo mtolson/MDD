@@ -2,3 +2,6 @@
 .container{
 	background: gray;
 }
+#detailPage img{
+	padding-bottom: 25px;
+}
